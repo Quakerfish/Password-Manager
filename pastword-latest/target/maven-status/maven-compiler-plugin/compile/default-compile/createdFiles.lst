@@ -1,0 +1,6 @@
+com\example\pastword\SvgIconFactory.class
+com\example\pastword\AdminPage.class
+com\example\pastword\TogglePasswordField.class
+com\example\pastword\BrandAssetFactory.class
+com\example\pastword\PastwordApp$LoginAttempt.class
+com\example\pastword\PastwordApp$LoginDestination.class
